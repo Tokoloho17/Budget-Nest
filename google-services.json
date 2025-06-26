@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098760529812",
+    "project_id": "budgetnestprototype",
+    "storage_bucket": "budgetnestprototype.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098760529812:android:8774519d46964945e21181",
+        "android_client_info": {
+          "package_name": "com.example.budgetnestprototype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_wK23jlnAoXmKA1PrcEkfxaRGEiUdmmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
